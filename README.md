@@ -28,11 +28,10 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  
-<img width="30px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
+<img width="50px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img width="30px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
  
 </div>
  
