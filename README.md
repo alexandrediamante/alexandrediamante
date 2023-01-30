@@ -14,9 +14,6 @@ Analista de Sistemas(Delphi, PHP, C#, HTML, PL/SQL, ORACLE, POSTGRE, JS,)
 
  <br/> Desenvolvedor de software desde 2005, hoje atuo como Analista PL/SQL na Accenture-BR. :red_heart: &nbsp; 
  Trabalho com Desenvolvimento desde 2004, Iniciei minha carreira como Autodidata aprendendo linguem web php e html e usando mysql como banco de dados, logo na sequencia iniciei em2005 desenvolvimento Delphi3/Delphi5/Delphi7 com MSSQL /SQLSERVER/FIREBIRD/DB onde passei de 3 a 4 anos desenvolvendo Sistemas de ERP, para madeireira e frente de caixa para um sistema de varejo, e nesta mesma época também comecei a trabalhar com SVN(Versionamento de Fontes) . Já em 06/2009 iniciei desenvolvimento PLSQL, onde fiz grandes aplicações que consumiam cálculos feitos em Oracle Packages/Procedure/Funciton/Triggers/Job´s sendo cálculos fiscais/contábeis  e financeiro. Dentre estas desenvolvi Sped Pis/Cofins, Sped ECD,  Sped Contabil sempre em Banco Oracle e Front End, Delphi ou em C#. Neste período me tornei um especialista em desenvolvimento Oracle, tendo também aprendizagem em Code Clean, Scrum Master, SVN, GIT. Desenvolvimento mobile Cliente/Servidor para maquinas de Cartão Crédito  da Ingenico. Desenvolvi uma api em Delphi para consumo do serviço Pix entre varias outras integrações bancarias. Tenho grande facilidade em aprendizagem em Tecnologia e amo esta area de desenvolvimento.
- 
- 
- Lidero uma equipe de desenvolvedores, melhorando o software e entregando o melhor produto para os clientes. Atualmente, sou desenvolvedora fullstack web e também mobile, trabalhando com JavaScript. Há um pouco mais de um ano compartilho dicas de tecnologia em minhas redes sociais e ajudo pessoas a entrarem no mercado como programadores.
  <br />
 Seja muito bem vindo ao meu Github!
 
@@ -35,7 +32,6 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-##<img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
  
  
  
@@ -61,9 +57,9 @@ Seja muito bem vindo ao meu Github!
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/alexiakattah/count.svg" />  
+  <img src="https://profile-counter.glitch.me/alexandrediamante/count.svg" />  
 </p>
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/alexandrediamante/alexandrediamante/output/github-contribution-grid-snake.svg)
