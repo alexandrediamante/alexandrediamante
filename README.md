@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner-diamante.png">
+<img width="auto" src="https://github.com/alexandrediamante/alexandrediamante/blob/main/banner-DIAMANTE.png">
 
 
 # Alexandre Diamante
