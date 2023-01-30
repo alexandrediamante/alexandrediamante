@@ -25,30 +25,24 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  
+<img width="30px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
- 
- 
- 
- 
- 
+<img width="30px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
  
 </div>
  
 ##
 
 <div>
-
  <a href="https://www.instagram.com/alexandrediamant"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="alexandrediamante@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/alexandrediamante/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.youtube.com/channel/UCH8KDNBnYcsyGvvDNbXAQnw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
- 
+ <a href="https://www.youtube.com/channel/UCH8KDNBnYcsyGvvDNbXAQnw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
  
 </div>
 
@@ -62,4 +56,4 @@ Seja muito bem vindo ao meu Github!
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexandrediamante/alexandrediamante/output/github-contribution-grid-snake.svg)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexandrediamante-badge)
