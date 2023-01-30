@@ -35,7 +35,7 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
- <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
+##<img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
  
  
  
