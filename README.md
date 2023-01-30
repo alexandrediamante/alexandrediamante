@@ -21,6 +21,8 @@ Seja muito bem vindo ao meu Github!
 ## MY SKILLS
  
 <div>
+<img width="50px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
+<img width="50px" src="https://img.icons8.com/plasticine/512/oracle-pl-sql--v3.png" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -28,7 +30,7 @@ Seja muito bem vindo ao meu Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  
-<img width="50px" src="https://www.svgrepo.com/show/373548/delphi.svg" />
+
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
