@@ -12,8 +12,19 @@ Analista de Sistemas(Delphi, PHP, C#, HTML, PL/SQL, ORACLE, POSTGRE, JS,)
 <br />
 
 
- <br/> Desenvolvedor de software desde 2005, hoje atuo como Analista PL/SQL na Accenture-BR. :red_heart: &nbsp; 
- Trabalho com Desenvolvimento desde 2004, Iniciei minha carreira como Autodidata aprendendo linguem web php e html e usando mysql como banco de dados, logo na sequencia iniciei em2005 desenvolvimento Delphi3/Delphi5/Delphi7 com MSSQL /SQLSERVER/FIREBIRD/DB onde passei de 3 a 4 anos desenvolvendo Sistemas de ERP, para madeireira e frente de caixa para um sistema de varejo, e nesta mesma época também comecei a trabalhar com SVN(Versionamento de Fontes) . Já em 06/2009 iniciei desenvolvimento PLSQL, onde fiz grandes aplicações que consumiam cálculos feitos em Oracle Packages/Procedure/Funciton/Triggers/Job´s sendo cálculos fiscais/contábeis  e financeiro. Dentre estas desenvolvi Sped Pis/Cofins, Sped ECD,  Sped Contabil sempre em Banco Oracle e Front End, Delphi ou em C#. Neste período me tornei um especialista em desenvolvimento Oracle, tendo também aprendizagem em Code Clean, Scrum Master, SVN, GIT. Desenvolvimento mobile Cliente/Servidor para maquinas de Cartão Crédito  da Ingenico. Desenvolvi uma api em Delphi para consumo do serviço Pix entre varias outras integrações bancarias. Tenho grande facilidade em aprendizagem em Tecnologia e amo esta area de desenvolvimento.
+ <br/>   
+    <p>
+        Desenvolvedor de software desde 2005, atualmente exerço a função de Analista PL/SQL na Accenture-BR. ❤️
+    </p>
+    <p>
+        Iniciei minha carreira no desenvolvimento em 2004, como autodidata, aprendendo linguagens web como PHP e HTML e usando o MySQL como banco de dados. Logo em seguida, em 2005, comecei a trabalhar com Delphi 3/Delphi 5/Delphi 7 em conjunto com MSSQL, SQL Server, Firebird e Banco de Dados (DB). Durante um período de três a quatro anos, me dediquei ao desenvolvimento de sistemas ERP, direcionados para o setor madeireiro, bem como soluções de frente de caixa para um sistema de varejo. Nesse mesmo período, também iniciei o uso do SVN para versionamento de código-fonte.
+    </p>
+    <p>
+        Em junho de 2009, dei início ao desenvolvimento em PL/SQL, onde criei aplicações de grande porte que envolviam cálculos complexos, realizados por meio de Oracle Packages, Procedures, Functions, Triggers e Jobs. Esses cálculos abrangiam áreas fiscais, contábeis e financeiras, incluindo o desenvolvimento de soluções para o Sped Pis/Cofins, Sped ECD e Sped Contábil, sempre utilizando o banco de dados Oracle como backend e, como front-end, Delphi ou C#. Nesse período, tornei-me um especialista em desenvolvimento Oracle, adquirindo também conhecimento em Code Clean, Scrum Master, SVN e GIT.
+    </p>
+    <p>
+        Participei ativamente do desenvolvimento de aplicações mobile cliente/servidor para máquinas de cartão de crédito da Ingenico. Além disso, desenvolvi uma API em Delphi para integração com o serviço Pix, entre outras integrações bancárias. Tenho facilidade em aprender novas tecnologias e sou apaixonado por esta área de desenvolvimento.
+    </p>
  <br />
 Seja muito bem vindo ao meu Github!
 
